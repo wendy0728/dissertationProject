@@ -9,7 +9,15 @@ plugins {
 
 android {
     compileSdk 32
-    
+
+    signingConfigs {
+        debug {
+            storeFile file('C:\\Users\\ngjin\\AndroidStudioProjects\\farm\\keyStore.jks')
+            storePassword 'com4510iscool'
+            keyPassword 'com4510iscool'
+            keyAlias 'com4510'
+        }
+    }
 
     sourceSets {
         androidTest {

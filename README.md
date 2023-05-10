@@ -14,6 +14,5 @@ Password: password123Q
 
 If you encounter any difficulty to run the code,these are some of the solutions for some of the problems:
 1. Change the database version, in app/src/main/java/com/example/data/AppDatabse file, change the Database version to one number higher.
-
-
+2. Change the file path of the keystore.
 
