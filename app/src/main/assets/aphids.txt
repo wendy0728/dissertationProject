@@ -1,0 +1,7 @@
+pest
+spider
+fly
+aphid
+snail
+slug
+beetle
