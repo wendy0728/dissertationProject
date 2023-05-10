@@ -14,7 +14,7 @@ Password: password123Q
 
 Steps before run the code:
 1. Change the database version, in app/src/main/java/com/example/data/AppDatabse file, change the Database version to one number higher.
-2. Change the file path of the keystore.
+2. Change the file path of the keystore from Project Structure.
 3. add the following line to local.properties:
 MAP_API_KEY=AIzaSyBYQj-HAcBc4c2HkuOHjwikID5zq9_veCo
 
