@@ -10,6 +10,8 @@ plugins {
 android {
     compileSdk 32
 
+    //code from LunaLou at at https://github.com/PervasiveComputingGroup/FCIMCS_Mobile
+
     signingConfigs {
         debug {
             storeFile file('C:\\Users\\ngjin\\AndroidStudioProjects\\farm\\keyStore.jks')
