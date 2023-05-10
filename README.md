@@ -12,7 +12,7 @@ To log in to this app, this is the email and password can be used:
 Email: tom@gmail.com
 Password: password123Q
 
-If you encounter any difficulty to run the code,these are some of the solutions:
+Steps before run the code:
 1. Change the database version, in app/src/main/java/com/example/data/AppDatabse file, change the Database version to one number higher.
 2. Change the file path of the keystore.
 3. add the following line to local.properties:
