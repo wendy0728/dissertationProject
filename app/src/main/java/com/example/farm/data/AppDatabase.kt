@@ -15,7 +15,7 @@ import androidx.room.TypeConverters
  * This database is included [EncyclopediaCropData],[EncyPotentialDiseaseData],[FieldData],[CoordinateData],[PestsData],[ResultData],[UserData].
  */
 
-@Database(entities = [EncyclopediaCropData::class, EncyPotentialDiseaseData::class, FieldData::class, CoordinateData::class, PestsData::class, ResultData::class, UserData::class], version = 64, exportSchema = false)
+@Database(entities = [EncyclopediaCropData::class, EncyPotentialDiseaseData::class, FieldData::class, CoordinateData::class, PestsData::class, ResultData::class, UserData::class], version = 66, exportSchema = false)
 @TypeConverters(Converters::class)
 
 abstract class AppDatabase: RoomDatabase() {

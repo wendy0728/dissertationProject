@@ -119,7 +119,7 @@ fun ResultListScreen(navController : NavController,
 
     var allPestText = ""
     if(allPests.isNotEmpty()) {
-        var lastPestName = allPests.last()
+        var lastPestName = allPests.distinct().last()
         allPests.distinct().forEach { name ->
             if (lastPestName == name) {
                 allPestText += name
