@@ -4,9 +4,9 @@ The following link is the video shows the flow of the mobile application.pa
 https://drive.google.com/file/d/15LpfysnkDBJMOlRk21pzctmyV-Wb0gVl/view?usp=sharing
 
 There are already some data in the database. 
-1. It have information about Sam Field, Tom Field.
+1. It has information about Sam Field, Tom Field.
 2. Crop encyclopedia have information about Apple.
-3. Pests data have information about ant,aphid,beetle,bollworm,caterpillar,fleas,fly,leaf miner,mit,snail,spider,slug
+3. Pests table have information about ant,aphid,beetle,bollworm,caterpillar,fleas,fly,leaf miner,mit,snail,spider,slug
 
 To log in to this app, this is the email and password can be used:
 Email: tom@gmail.com
